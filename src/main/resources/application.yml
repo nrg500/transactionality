@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+     uri: "mongodb://localhost:27020/?tls=false&retryWrites=false"
+     database: gridCaseRegistry
